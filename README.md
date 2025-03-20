@@ -16,7 +16,7 @@ This web-based PDF tool allows you to **merge, compress, and secure PDF files** 
 ---
 
 ## **🚀 How to Use the App**
-1️⃣ **Go to the App URL** (or run it locally).  
+1️⃣ **Go to the [App URL](https://pdfmate.streamlit.app/)** (or run it locally).  
 2️⃣ **Choose a tool from the sidebar**:
    - Merge PDFs
    - Compress PDFs
