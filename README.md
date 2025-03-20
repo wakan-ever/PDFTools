@@ -8,9 +8,7 @@ This web-based PDF tool allows you to **merge, compress, and secure PDF files** 
 ✔ **Encrypt PDFs (User Password)** – Add a password to protect your PDF.   
 ✔ **No Need for Adobe Acrobat** – Works entirely online.  
 
-### **🌟 Who Is This For?**
-- **Individuals & Businesses** who need a **free** and **easy** way to edit PDFs.  
-- **Students & Professionals** managing reports, research papers, or scanned documents.  
+### **🌟 Who Is This For?**  
 - **Anyone without access to Adobe Acrobat** but needing to modify PDFs.  
 
 ---
@@ -50,8 +48,6 @@ Then, open the link in your browser.
 
 ## **🔐 Security & Privacy**
 ✔ **No files are stored** – All processing is done in memory.  
-✔ **Secure encryption** – Password-protected files are encrypted using `pypdf`.  
-✔ **Open-source** – You can review and modify the code!  
 
 ---
 
