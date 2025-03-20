@@ -21,6 +21,7 @@ This web-based PDF tool allows you to **merge, compress, and secure PDF files** 
    - Merge PDFs
    - Compress PDFs
    - Encrypt PDFs  
+
 3️⃣ **Upload your PDF(s)** and adjust settings.  
 4️⃣ **Download your processed file** instantly! 🎉  
 
