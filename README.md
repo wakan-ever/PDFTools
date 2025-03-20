@@ -1,12 +1,11 @@
-## **📄 PDF Utility Tool – No Adobe Acrobat Required!**
+## **📄 PDF Utility Tool**
 ### **🔹 Overview**
-This web-based PDF tool allows you to **merge, compress, and secure PDF files** without needing **Adobe Acrobat** or any paid software. It’s completely **free** and runs on your web browser—no installation required!
+This web-based PDF tool allows you to **merge, compress, and secure PDF files** . It’s completely **free** and runs on your web browser—no installation required.
 
 ### **💡 Features**
 ✔ **Merge PDFs** – Combine multiple PDFs into one.  
 ✔ **Compress PDFs** – Reduce the file size of scanned PDFs.  
-✔ **Encrypt PDFs (User Password)** – Add a password to protect your PDF.  
-✔ **Encrypt PDFs (Owner Permissions)** – Restrict printing, copying, or editing.  
+✔ **Encrypt PDFs (User Password)** – Add a password to protect your PDF.   
 ✔ **No Need for Adobe Acrobat** – Works entirely online.  
 
 ### **🌟 Who Is This For?**
