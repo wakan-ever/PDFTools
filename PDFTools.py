@@ -41,6 +41,8 @@ if app_mode is None:
     ✅ **Encrypt PDFs** – Protect your PDFs with passwords.  
     ✅ **No Need for Adobe Acrobat** – 100% free and online!  
 
+    **Your files are not stored** – All processing happens **in memory (statelessly)** and is deleted after you close or refresh the page.  
+
     ---
     
     ### **📌 How to Use**
